@@ -13,7 +13,7 @@
 - 😎 Non-academic (But Academic) interest ... Using machine learning to advance complex grappling motions, particularly applied in Brazilian Jiu-Jitsu (Gordan Ryan vs Machine?)
 - ✔ Favourite Quote... "Kindle a light of meaning, in the darkness of mere being". -Carl Jung 
 
-
+If you're interested in Machine Learning and Jiu-Jitsu (or grappling in general no-gi) check out http://eel.is/GrappleMap/index.html ! Working on improving this platform with @Eelis.
 
 
 <!---
