@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NasirDad , you can call me Nasir!
+- 👋 Hi, I’m @NasirDad , you can call me Nas!
 - 👀 I’m interested in ... Macroeconomics and Economic Development (You guessed it.. motivated by understanding why some countries are poor and others are rich). More precisely, understanding the impact of the allocation of factor inputs across heterogenous firms on aggregate outcomes.
 - 🌱 I’m currently learning ... The role misallocating factor inputs in understanding productivity differences across countries and the potential channels that are generating misallocation. 
 - 💞️ I’m looking to collaborate on ... The intersection between misallocation, selection and technology. More precisely, how misallocation, selection and technology interact in a dynamic setting
